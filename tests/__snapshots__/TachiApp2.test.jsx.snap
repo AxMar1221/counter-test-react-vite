@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en TachiApp debe de hacer mach con el snapshot 1`] = `
+<div>
+  <h1
+    data-testid="test-title"
+  >
+    hola soy Tachi
+  </h1>
+  <p>
+    No hay subtitulo
+  </p>
+  <p>
+    No hay subtitulo
+  </p>
+  <p>
+    Tachi Dito
+  </p>
+</div>
+`;
